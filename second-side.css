@@ -1,0 +1,14 @@
+.txtArea,.buttons{
+    display:inline-block;
+    vertical-align: bottom;
+}
+
+h1 {
+    font-size: 20px;
+    background-color: green;
+}
+
+h2 {
+    color: blue;
+    
+}
